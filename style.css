@@ -1,6 +1,6 @@
 /*
 git add . 
-git commit -m "first commit" 
+git commit -m "first commit" - создание коммита
 */
 /*
 git add . git 
@@ -8,8 +8,13 @@ git log --oneline
 
 git checkout {имя}
 git checkout - 
+git pull (вносит изменения введенные на гитхабе
 */
 body{
     background-color: lavender;
     color: rgb(126, 94, 34);
+}
+h1{
+    font-style: italic;
+    color: lightcyan;
 }
